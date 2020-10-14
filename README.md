@@ -1,2 +1,2 @@
 # Masterchef
-Masterchef-Apple Pie
+MasterChef-Apple Pie
